@@ -1,2 +1,2 @@
-# connect-to-aws-EC2
-How to Connect to your AWS EC2 instance with ssh
+this script works on windows using git bash terminal
+and i think it'll also work on linus
